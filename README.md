@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 ![](https://img.shields.io/badge/cool-useless-green.svg)
+[![R-CMD-check](https://github.com/coolbutuseless/typhoid/workflows/R-CMD-check/badge.svg)](https://github.com/coolbutuseless/typhoid/actions)
 <!-- badges: end -->
 
 `typhoid` provides implementations of some non-standard datatypes using
